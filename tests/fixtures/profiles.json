@@ -1,0 +1,7 @@
+[
+  {"id": "p1", "name": "田中太郎", "skills": ["Python", "AWS", "Docker", "PostgreSQL"], "experience_years": 5},
+  {"id": "p2", "name": "鈴木花子", "skills": ["Java", "Spring Boot", "MySQL", "Docker"], "experience_years": 8},
+  {"id": "p3", "name": "佐藤次郎", "skills": ["Python", "Terraform", "AWS", "Kubernetes"], "experience_years": 12},
+  {"id": "p4", "name": "山田優子", "skills": ["React", "TypeScript", "Node.js", "MongoDB"], "experience_years": 3},
+  {"id": "p5", "name": "伊藤健太", "skills": ["Go", "gRPC", "Kubernetes", "Terraform"], "experience_years": 6}
+]

@@ -1,0 +1,7 @@
+[
+  {"id": "prj1", "name": "クラウド移行案件", "required_skills": ["AWS", "Terraform", "Docker"], "min_experience_years": 4},
+  {"id": "prj2", "name": "Webアプリ開発", "required_skills": ["React", "TypeScript", "Node.js"], "min_experience_years": 2},
+  {"id": "prj3", "name": "データ基盤構築", "required_skills": ["Python", "PostgreSQL", "AWS"], "min_experience_years": 5},
+  {"id": "prj4", "name": "マイクロサービス開発", "required_skills": ["Go", "Kubernetes", "gRPC"], "min_experience_years": 3},
+  {"id": "prj5", "name": "モバイルアプリ開発", "required_skills": ["React Native", "TypeScript", "Firebase"], "min_experience_years": 2}
+]
