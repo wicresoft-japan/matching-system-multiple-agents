@@ -50,3 +50,6 @@ htmlcov/
 # local data
 data/*.json
 
+# Project-specific Claude config
+CLAUDE.md
+
